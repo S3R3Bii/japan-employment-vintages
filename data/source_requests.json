@@ -1,0 +1,12 @@
+[
+  {
+    "vintage": "pre2022",
+    "file": "pre2022-lt01i.xlsx",
+    "url": "https://www.stat.go.jp/data/roudou/220201/zuhyou/lt01i.xlsx"
+  },
+  {
+    "vintage": "current",
+    "file": "current-1e1.xlsx",
+    "url": "https://www.e-stat.go.jp/en/stat-search/file-download?fileKind=0&statInfId=000031831376"
+  }
+]
