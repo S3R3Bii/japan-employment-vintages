@@ -8,7 +8,7 @@ import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.error import HTTPError
-from urllib.request import Request, urlopen
+import requests
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -28,17 +28,15 @@ def main():
         started = datetime.now(timezone.utc).isoformat()
         body, status, headers, error = b"", None, {}, None
         try:
-            with urlopen(
-                Request(
-                    request["url"],
-                    headers={"User-Agent": "IndependentEmploymentRevisionResearch/1.0"},
-                ),
+            with requests.get(
+                request["url"],
+                headers={"User-Agent": "IndependentEmploymentRevisionResearch/1.0"},
                 timeout=120,
             ) as response:
                 status, headers, body = (
-                    response.status,
+                    response.status_code,
                     dict(response.headers.items()),
-                    response.read(),
+                    response.content,
                 )
         except HTTPError as exc:
             status, headers, body, error = (
@@ -72,9 +70,7 @@ def main():
             json.dumps(receipts, indent=2) + "\n", encoding="utf-8"
         )
         print(
-            json.dumps(
-                {k: item[k] for k in ["vintage", "status", "bytes", "error"]}
-            ),
+            json.dumps({k: item[k] for k in ["vintage", "status", "bytes", "error"]}),
             flush=True,
         )
         assert (

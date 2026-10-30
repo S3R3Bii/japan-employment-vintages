@@ -1,0 +1,10 @@
+{
+  "region": "Authored region",
+  "concept": "employed_persons",
+  "sex": "total",
+  "adjustment": "original",
+  "unit": "ten_thousand_persons",
+  "dataset_vintage": "authored-v1",
+  "period": "2020-02",
+  "count": "100"
+}

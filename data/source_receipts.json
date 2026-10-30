@@ -1,0 +1,39 @@
+[
+  {
+    "vintage": "pre2022",
+    "file": "pre2022-lt01i.xlsx",
+    "url": "https://www.stat.go.jp/data/roudou/220201/zuhyou/lt01i.xlsx",
+    "started_utc": "2026-10-30T19:25:47.868776+00:00",
+    "completed_utc": "2026-10-30T19:25:48.890668+00:00",
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/octet-stream",
+      "Content-Length": "317859",
+      "Date": "Fri, 30 Oct 2026 19:25:48 GMT",
+      "Last-Modified": "Thu, 03 Mar 2022 23:32:03 GMT",
+      "ETag": "\"501c3a17f8d213c8a66a025d24b065db\""
+    },
+    "bytes": 317859,
+    "sha256": "8782f68c226edc1ffe767d605ca3677b9091fe158628be3316633ba5b8828514",
+    "protocol_commit": "9ab856080c7bed193d87f1aa92e48e11b03bbe21",
+    "python": "3.10.11",
+    "error": null
+  },
+  {
+    "vintage": "current",
+    "file": "current-1e1.xlsx",
+    "url": "https://www.e-stat.go.jp/en/stat-search/file-download?fileKind=0&statInfId=000031831376",
+    "started_utc": "2026-10-30T19:25:48.890668+00:00",
+    "completed_utc": "2026-10-30T19:25:49.902769+00:00",
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/octet-stream",
+      "Date": "Fri, 30 Oct 2026 19:25:49 GMT"
+    },
+    "bytes": 58709,
+    "sha256": "92ada0ce6c80eef245f6fd7213c8ffdf4c91de60eb602b08546039d9b75d0123",
+    "protocol_commit": "9ab856080c7bed193d87f1aa92e48e11b03bbe21",
+    "python": "3.10.11",
+    "error": null
+  }
+]

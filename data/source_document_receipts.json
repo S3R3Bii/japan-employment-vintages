@@ -1,0 +1,58 @@
+[
+  {
+    "file": "archive-page.html",
+    "url": "https://www.stat.go.jp/english/data/roudou/220201/index.html",
+    "status": 200,
+    "bytes": 10864,
+    "sha256": "2298bc24366bf22ec0a00711a5cc344887bb15b95e4a6c6ee6b1663f3b040dbf",
+    "retrieved_utc": "2026-10-30T19:26:34.052496+00:00"
+  },
+  {
+    "file": "current-index.html",
+    "url": "https://www.e-stat.go.jp/en/stat-search/files?cycle=0&tclass=000001226526",
+    "status": 200,
+    "bytes": 268244,
+    "sha256": "3d54b322a5eb584d4b9e0c3de47c44b93a3da93c92e18ef9e153f6e2de9386c8",
+    "retrieved_utc": "2026-10-30T19:26:35.543991+00:00"
+  },
+  {
+    "file": "bureau-rights.html",
+    "url": "https://www.stat.go.jp/english/info/riyou.html",
+    "status": 200,
+    "bytes": 20410,
+    "sha256": "0f3041962a0ca20fe272d25e7195cfbab00f72919538fbc2013dcd0fd2fff813",
+    "retrieved_utc": "2026-10-30T19:26:36.217500+00:00"
+  },
+  {
+    "file": "estat-rights.html",
+    "url": "https://www.e-stat.go.jp/en/terms-of-use",
+    "status": 200,
+    "bytes": 89010,
+    "sha256": "1b6735cdbc0b9307cc29868ca92e77ba06d173ced43920f51b2955583a6a687d",
+    "retrieved_utc": "2026-10-30T19:26:37.434666+00:00"
+  },
+  {
+    "file": "survey-notes.html",
+    "url": "https://www.stat.go.jp/english/data/roudou/note.html",
+    "status": 200,
+    "bytes": 22849,
+    "sha256": "6c1b8983cd94920cf60da210fbd7c457301115ecf5a371bfbc5f509d043aa061",
+    "retrieved_utc": "2026-10-30T19:26:38.030474+00:00"
+  },
+  {
+    "file": "survey-definitions.pdf",
+    "url": "https://www.stat.go.jp/english/data/roudou/pdf/definite.pdf",
+    "status": 200,
+    "bytes": 177910,
+    "sha256": "200fd3323f20a51ab623eab2302208ff7064a3359f14c4102b754e2d7f881add",
+    "retrieved_utc": "2026-10-30T19:26:38.997179+00:00"
+  },
+  {
+    "file": "rebase-method.pdf",
+    "url": "https://www.stat.go.jp/english/data/roudou/220201/pdf/esetsuzoku.pdf",
+    "status": 200,
+    "bytes": 249030,
+    "sha256": "0c78ab0287da3ed3c71906755965a96a4a31dbb6682c9979e2cae324d8334c5d",
+    "retrieved_utc": "2026-10-30T19:26:39.960889+00:00"
+  }
+]
