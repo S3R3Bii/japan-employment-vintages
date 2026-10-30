@@ -1,0 +1,1061 @@
+[
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/later/execution.json",
+      "field": "pairs"
+    },
+    "text": "72",
+    "page": 0,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "mean_absolute_difference_pp"
+    },
+    "text": "0.327",
+    "page": 0,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "max_absolute_difference_pp"
+    },
+    "text": "0.577",
+    "page": 0,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "strict_opposite"
+    },
+    "text": "4",
+    "page": 0,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "rounding_robust_opposite"
+    },
+    "text": "2",
+    "page": 0,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "source_count_cells"
+    },
+    "text": "288",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "periods_per_region_version"
+    },
+    "text": "72",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "versions"
+    },
+    "text": "2",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/input_receipt.json",
+      "field": "regions"
+    },
+    "text": "2",
+    "page": 1,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "pairs"
+    },
+    "text": "48",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "mean_absolute_difference_pp"
+    },
+    "text": "0.185",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "max_absolute_difference_pp"
+    },
+    "text": "0.473",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "sign_disagree"
+    },
+    "text": "2",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "strict_opposite"
+    },
+    "text": "1",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "rounding_robust_opposite"
+    },
+    "text": "0",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "pairs"
+    },
+    "text": "48",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "mean_absolute_difference_pp"
+    },
+    "text": "0.300",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "max_absolute_difference_pp"
+    },
+    "text": "0.627",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "sign_disagree"
+    },
+    "text": "3",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "strict_opposite"
+    },
+    "text": "1",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "development",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "rounding_robust_opposite"
+    },
+    "text": "0",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "archive_vs_current",
+      "field": "pairs"
+    },
+    "text": "36",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "archive_vs_current",
+      "field": "mean_absolute_difference_pp"
+    },
+    "text": "0.150",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "archive_vs_current",
+      "field": "max_absolute_difference_pp"
+    },
+    "text": "0.344",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "archive_vs_current",
+      "field": "sign_disagree"
+    },
+    "text": "1",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "archive_vs_current",
+      "field": "strict_opposite"
+    },
+    "text": "1",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "archive_vs_current",
+      "field": "rounding_robust_opposite"
+    },
+    "text": "1",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "mixed_vs_current",
+      "field": "pairs"
+    },
+    "text": "36",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "mixed_vs_current",
+      "field": "mean_absolute_difference_pp"
+    },
+    "text": "0.278",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "mixed_vs_current",
+      "field": "max_absolute_difference_pp"
+    },
+    "text": "0.577",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "mixed_vs_current",
+      "field": "sign_disagree"
+    },
+    "text": "2",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "mixed_vs_current",
+      "field": "strict_opposite"
+    },
+    "text": "1",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Southern-Kanto",
+      "comparison": "mixed_vs_current",
+      "field": "rounding_robust_opposite"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "archive_vs_current",
+      "field": "pairs"
+    },
+    "text": "36",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "archive_vs_current",
+      "field": "mean_absolute_difference_pp"
+    },
+    "text": "0.123",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "archive_vs_current",
+      "field": "max_absolute_difference_pp"
+    },
+    "text": "0.285",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "archive_vs_current",
+      "field": "sign_disagree"
+    },
+    "text": "5",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "archive_vs_current",
+      "field": "strict_opposite"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "archive_vs_current",
+      "field": "rounding_robust_opposite"
+    },
+    "text": "0",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "mixed_vs_current",
+      "field": "pairs"
+    },
+    "text": "36",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "mixed_vs_current",
+      "field": "mean_absolute_difference_pp"
+    },
+    "text": "0.375",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "mixed_vs_current",
+      "field": "max_absolute_difference_pp"
+    },
+    "text": "0.566",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "mixed_vs_current",
+      "field": "sign_disagree"
+    },
+    "text": "7",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "mixed_vs_current",
+      "field": "strict_opposite"
+    },
+    "text": "3",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "Kinki",
+      "comparison": "mixed_vs_current",
+      "field": "rounding_robust_opposite"
+    },
+    "text": "2",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "pairs"
+    },
+    "text": "72",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "mean_absolute_difference_pp"
+    },
+    "text": "0.136",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "max_absolute_difference_pp"
+    },
+    "text": "0.344",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "sign_disagree"
+    },
+    "text": "6",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "strict_opposite"
+    },
+    "text": "1",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "rounding_robust_opposite"
+    },
+    "text": "1",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "pairs"
+    },
+    "text": "72",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "mean_absolute_difference_pp"
+    },
+    "text": "0.327",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "max_absolute_difference_pp"
+    },
+    "text": "0.577",
+    "page": 3,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "sign_disagree"
+    },
+    "text": "9",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "strict_opposite"
+    },
+    "text": "4",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "rounding_robust_opposite"
+    },
+    "text": "2",
+    "page": 3,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "data/original_verification.json",
+      "field": "checks"
+    },
+    "text": "2,600",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/development/verification.json",
+      "field": "checks"
+    },
+    "text": "4,930",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "json",
+      "path": "results/later/verification.json",
+      "field": "checks"
+    },
+    "text": "6,922",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "freeze_count"
+    },
+    "text": "24",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "test_count"
+    },
+    "text": "44",
+    "page": 5,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "point_alert_mismatch_005"
+    },
+    "text": "5",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "both_certified_005"
+    },
+    "text": "66",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "certified_alert_mismatch_005"
+    },
+    "text": "2",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "point_alert_mismatch_010"
+    },
+    "text": "1",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "both_certified_010"
+    },
+    "text": "70",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "archive_vs_current",
+      "field": "certified_alert_mismatch_010"
+    },
+    "text": "0",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "point_alert_mismatch_005"
+    },
+    "text": "13",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "both_certified_005"
+    },
+    "text": "63",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "certified_alert_mismatch_005"
+    },
+    "text": "7",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "point_alert_mismatch_010"
+    },
+    "text": "8",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "both_certified_010"
+    },
+    "text": "68",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "summary",
+      "phase": "later",
+      "region": "All",
+      "comparison": "mixed_vs_current",
+      "field": "certified_alert_mismatch_010"
+    },
+    "text": "6",
+    "page": 4,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "archive",
+      "field": "numerator",
+      "multiplier": 1
+    },
+    "text": "1,066",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "archive",
+      "field": "denominator",
+      "multiplier": 1
+    },
+    "text": "1,070",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "archive",
+      "field": "growth",
+      "multiplier": 100
+    },
+    "text": "-0.374",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "archive",
+      "field": "lower",
+      "multiplier": 100
+    },
+    "text": "-0.467",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "archive",
+      "field": "upper",
+      "multiplier": 100
+    },
+    "text": "-0.281",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "current",
+      "field": "numerator",
+      "multiplier": 1
+    },
+    "text": "1,072",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "current",
+      "field": "denominator",
+      "multiplier": 1
+    },
+    "text": "1,074",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "current",
+      "field": "growth",
+      "multiplier": 100
+    },
+    "text": "-0.186",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "current",
+      "field": "lower",
+      "multiplier": 100
+    },
+    "text": "-0.279",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "current",
+      "field": "upper",
+      "multiplier": 100
+    },
+    "text": "-0.093",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "mixed",
+      "field": "numerator",
+      "multiplier": 1
+    },
+    "text": "1,072",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "mixed",
+      "field": "denominator",
+      "multiplier": 1
+    },
+    "text": "1,070",
+    "page": 2,
+    "format": ",d"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "mixed",
+      "field": "growth",
+      "multiplier": 100
+    },
+    "text": "0.187",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "mixed",
+      "field": "lower",
+      "multiplier": 100
+    },
+    "text": "0.093",
+    "page": 2,
+    "format": ".3f"
+  },
+  {
+    "query": {
+      "kind": "example",
+      "region": "Kinki",
+      "period": "2020-11",
+      "method": "mixed",
+      "field": "upper",
+      "multiplier": 100
+    },
+    "text": "0.281",
+    "page": 2,
+    "format": ".3f"
+  }
+]
