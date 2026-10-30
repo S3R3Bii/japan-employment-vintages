@@ -1,0 +1,11 @@
+{
+  "status": "PASS_FIXED_DESCRIPTIVE_EXECUTION",
+  "phase": "later",
+  "pairs": 72,
+  "level_pairs": 72,
+  "growth_rows": 216,
+  "alert_rows": 432,
+  "no_fitting": true,
+  "source_network": false,
+  "input_sha256": "24b235c551f8016ab27274d5d811f8929735226cd3fe1338294f1d26651c6ba2"
+}
