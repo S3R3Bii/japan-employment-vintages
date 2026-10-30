@@ -85,16 +85,15 @@ def main():
     ]:
         assert phrase in text, phrase
         checks += 1
-    log = (ROOT / "paper/main.log").read_text(encoding="utf-8", errors="replace")
-    warnings = [
-        l
-        for l in log.splitlines()
-        if any(
-            w in l
-            for w in ["Overfull", "Underfull", "Missing character", "Unused global"]
-        )
-    ]
+    build = json.loads((ROOT / "paper/build_receipt.json").read_text(encoding="utf-8"))
+    assert build["status"] == "PASS_COMPILE_AND_SIX_PAGE_VISUAL_REVIEW"
+    for name, digest in build["artifact_sha256"].items():
+        assert hashlib.sha256((ROOT / name).read_bytes()).hexdigest() == digest
+        checks += 1
+    warnings = build["layout_warnings"]
     assert not warnings, warnings
+    if (ROOT / "paper/main.log").exists():
+        assert hashlib.sha256((ROOT / "paper/main.log").read_bytes()).hexdigest() == build["private_log_sha256"]
     checks += 1
     result = dict(
         status="PASS_SOURCE_BOUND_DISPLAYS_AND_PDF_TEXT",

@@ -1,0 +1,19 @@
+{
+  "status": "PASS_COMPILE_AND_SIX_PAGE_VISUAL_REVIEW",
+  "timestamp_utc": "2026-10-30T19:34:53.138269+00:00",
+  "compiler": "Tectonic",
+  "command": "tectonic --keep-logs --outdir paper paper/main.tex",
+  "pages": 6,
+  "render_tool": "Poppler pdftoppm",
+  "render_dpi": 95,
+  "visual_checks": "All six pages inspected: legible, no clipping/overlap, figures/tables/captions and practical qualifications present",
+  "layout_warnings": [],
+  "private_log_sha256": "27e2944e4d04814026df9ebfb057c834d0f6a945451d812667428be37da29e29",
+  "artifact_sha256": {
+    "paper/main.tex": "1266ab21197e15c229aaade4c2109a45fc24e0e59825421764da30be0156c961",
+    "paper/manuscript.pdf": "1a4425df0ee45adc1969d198ac4e941277a54df29c4e66064b27f3d1fda62b7a",
+    "paper/images/count_revisions.pdf": "6c2533021850df5dbca642707d62245acd8553f2f9c68d47f1aa759cd6a01815",
+    "paper/images/growth_splice.pdf": "4b73f828cac3eb22b2f45747b249d15b1e12dbc2d067b869657b56196757389a",
+    "paper/images/threshold_coverage.pdf": "8d0ec4b8021b2b9c964be7814d6f1a951e5491cd68dc0e7e3caa37aca623d398"
+  }
+}
