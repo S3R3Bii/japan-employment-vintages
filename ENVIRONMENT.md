@@ -4,4 +4,6 @@ Capture and exact arithmetic used CPython 3.10.11. Requests 2.32.3 retained norm
 
 Numerical replay uses only the Python standard library and the committed minimal projection. Source recapture and original-workbook reconciliation are separate optional operations. Figures use Matplotlib 3.10.9; PDF text checks use pypdf 6.10.0. The manuscript was compiled with Tectonic, with no layout/glyph warnings, and all six pages were inspected from 95 dpi Poppler renders. No fitted model, random search, GPU, source account, paid service or R runtime is used.
 
-The source/comparison freeze contains36 finite fixtures. Eight CLI guard fixtures were added afterward for the offline exercise; frozen benchmark code, inputs and checks remain unchanged.
+The source/comparison freeze contains 36 finite fixtures. Eight CLI guard fixtures were added afterward for the offline exercise; frozen benchmark code, inputs and checks remain unchanged.
+
+Requirements retain inherited NumPy/pandas pins from the source-reader template. The numerical benchmark does not import either library; no model or tuning claim follows from their presence.

@@ -1,8 +1,8 @@
 {
-  "timestamp_utc": "2026-10-30T19:34:20.031845+00:00",
-  "version": "Local complete artifact candidate; replay and exact remote release pending",
-  "status": "LOCAL_ARTIFACT_CHECKS_PASS_RELEASE_INCOMPLETE",
-  "grade": 3,
+  "timestamp_utc": "2026-10-30T19:35:45.902666+00:00",
+  "version": "Local ready candidate; exact remote release proof tracked separately",
+  "status": "LOCAL_ACCEPTANCE_PASS",
+  "grade": 4,
   "criteria": {
     "source_rights_identity": {
       "state": "pass",
@@ -22,15 +22,12 @@
     "figures_and_paper": {
       "state": "pass",
       "grade": 4,
-      "evidence": "Three inspected figures; 296 source values,496 actual SVG coordinates,9 hashes;89 source-bound displays,189 checks;all six pages inspected;no final layout/glyph warnings"
+      "evidence": "Three inspected figures; 296 source values,496 actual SVG coordinates,9 hashes;89 source-bound displays,194 checks;all six pages inspected;no final layout/glyph warnings"
     },
     "replay": {
-      "state": "unknown",
-      "evidence": "Current complete committed package replay pending"
-    },
-    "remote_release": {
-      "state": "unknown",
-      "evidence": "Candidate/main Linux checks, tested/merged tree and annotated tag pending"
+      "state": "pass",
+      "grade": 4,
+      "evidence": "CPython3.10.11 and3.12.14: identical14260 CSV fields and4 JSON documents;44 finite fixtures;24 frozen files and original bytes unchanged;full-history clone,no source network"
     }
   },
   "gates": {
@@ -38,9 +35,8 @@
     "original_reconciliation": "pass",
     "fixed_cohort": "pass",
     "independent_numerics": "pass",
-    "privacy": "pending canonical candidate scan",
-    "replay": "unknown",
-    "remote_release": "unknown"
+    "privacy": "pass_bounded_canonical_scan",
+    "replay": "pass"
   },
   "reviewed_files_sha256": {
     "paper/main.tex": "1266ab21197e15c229aaade4c2109a45fc24e0e59825421764da30be0156c961",
@@ -71,12 +67,18 @@
   },
   "usage": {
     "source": "Codex get_usage_limits",
-    "observed_utc": "2026-10-30 19:29:53 UTC",
+    "observed_utc": "2026-10-30 19:35:22 UTC",
     "window_minutes": 10080,
     "used_percent": 44,
     "remaining_percent": 56,
     "reset_unix": 1793910839,
     "secondary": "unavailable",
     "shared_account_not_task_consumption": true
+  },
+  "scope": "Local artifact acceptance; release completion additionally requires linked exact candidate/main CI, tree and remote tag proof",
+  "release_evidence": {
+    "state": "PENDING_EXACT_REMOTE_CHECKS",
+    "pull_request": "https://github.com/S3R3Bii/japan-employment-vintages/pull/2",
+    "note": "This local receipt does not claim release completion; exact final proof is recorded by the program release register and pull request."
   }
 }

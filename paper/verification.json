@@ -2,7 +2,7 @@
   "status": "PASS_SOURCE_BOUND_DISPLAYS_AND_PDF_TEXT",
   "pages": 6,
   "displays": 89,
-  "checks": 189,
+  "checks": 194,
   "pdf_sha256": "1a4425df0ee45adc1969d198ac4e941277a54df29c4e66064b27f3d1fda62b7a",
   "layout_warnings": [],
   "visual_inspection": "Separate recorded human-visible page inspection required"
