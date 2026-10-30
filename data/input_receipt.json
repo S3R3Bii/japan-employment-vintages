@@ -1,0 +1,11 @@
+{
+  "status": "PASS_FIXED_COHORT",
+  "source_count_cells": 288,
+  "periods_per_region_version": 72,
+  "regions": 2,
+  "versions": 2,
+  "missing_keys": 0,
+  "conflicting_keys": 0,
+  "projection_sha256": "24b235c551f8016ab27274d5d811f8929735226cd3fe1338294f1d26651c6ba2",
+  "source_files": 2
+}

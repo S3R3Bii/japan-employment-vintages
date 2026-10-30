@@ -1,0 +1,104 @@
+[
+  {
+    "vintage": "pre2022",
+    "sheet": "\u53c2\u8003 \u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df",
+    "cell": "F8",
+    "text": "\u5c31\u696d\u8005"
+  },
+  {
+    "vintage": "pre2022",
+    "sheet": "\u53c2\u8003 \u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df",
+    "cell": "L8",
+    "text": "\u5c31\u696d\u8005"
+  },
+  {
+    "vintage": "pre2022",
+    "sheet": "\u53c2\u8003 \u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df",
+    "cell": "F10",
+    "text": "Employed person"
+  },
+  {
+    "vintage": "pre2022",
+    "sheet": "\u53c2\u8003 \u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df",
+    "cell": "L10",
+    "text": "Employed person"
+  },
+  {
+    "vintage": "pre2022",
+    "sheet": "\u53c2\u8003 \u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df",
+    "cell": "I6",
+    "text": "Southern-Kanto"
+  },
+  {
+    "vintage": "pre2022",
+    "sheet": "\u53c2\u8003 \u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df",
+    "cell": "O6",
+    "text": "Kinki"
+  },
+  {
+    "vintage": "pre2022",
+    "sheet": "\u53c2\u8003 \u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df",
+    "cell": "P5",
+    "text": "\u3014ten thousand persons\u3015"
+  },
+  {
+    "vintage": "pre2022",
+    "sheet": "\u53c2\u8003 \u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df",
+    "cell": "F3",
+    "text": "Reference table     Monthly result in Southern-Kanto and Kinki"
+  },
+  {
+    "vintage": "pre2022",
+    "sheet": "\u53c2\u8003 \u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df",
+    "cell": "F4",
+    "text": "\u539f\u6570\u5024\uff082020\u5e74\u56fd\u52e2\u8abf\u67fb\u57fa\u6e96\u5207\u308a\u66ff\u3048\u4ee5\u524d\u306e\u65e2\u516c\u8868\u5024\uff09   Original series (initially released data before 2020-Census base revision)"
+  },
+  {
+    "vintage": "current",
+    "sheet": "\u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df\u7d71\u8a08\u8868",
+    "cell": "F8",
+    "text": "\u5c31\u696d\u8005"
+  },
+  {
+    "vintage": "current",
+    "sheet": "\u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df\u7d71\u8a08\u8868",
+    "cell": "L8",
+    "text": "\u5c31\u696d\u8005"
+  },
+  {
+    "vintage": "current",
+    "sheet": "\u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df\u7d71\u8a08\u8868",
+    "cell": "F10",
+    "text": "Employed person"
+  },
+  {
+    "vintage": "current",
+    "sheet": "\u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df\u7d71\u8a08\u8868",
+    "cell": "L10",
+    "text": "Employed person"
+  },
+  {
+    "vintage": "current",
+    "sheet": "\u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df\u7d71\u8a08\u8868",
+    "cell": "I6",
+    "text": "Southern-Kanto"
+  },
+  {
+    "vintage": "current",
+    "sheet": "\u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df\u7d71\u8a08\u8868",
+    "cell": "O6",
+    "text": "Kinki"
+  },
+  {
+    "vintage": "current",
+    "sheet": "\u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df\u7d71\u8a08\u8868",
+    "cell": "E5",
+    "text": "\uff08\u4e07\u4eba\uff09(ten thousand persons)"
+  },
+  {
+    "vintage": "current",
+    "sheet": "\u5357\u95a2\u6771\u53ca\u3073\u8fd1\u757f\u5730\u57df\u7d71\u8a08\u8868",
+    "cell": "E2",
+    "text": "Reference table     Monthly result in Southern-Kanto and Kinki"
+  }
+]

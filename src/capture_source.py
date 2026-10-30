@@ -70,9 +70,7 @@ def main():
             json.dumps(receipts, indent=2) + "\n", encoding="utf-8"
         )
         print(
-            json.dumps(
-                {k: item[k] for k in ["vintage", "status", "bytes", "error"]}
-            ),
+            json.dumps({k: item[k] for k in ["vintage", "status", "bytes", "error"]}),
             flush=True,
         )
         assert (
